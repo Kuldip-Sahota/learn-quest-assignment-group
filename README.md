@@ -20,7 +20,7 @@ Key Innovation:
 •	Students can enroll, submit assignments, and view their progress
 •	Real-time dashboard updates show grades and completion status
 
-2. Core Concept: How the Platform Works (High Level)
+**2**. Core Concept: How the Platform Works (High Level)
 1.	Instructors log in and create courses
 2.	Students log in and browse available courses
 3.	Students enroll in courses and access learning material
