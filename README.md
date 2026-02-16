@@ -34,7 +34,9 @@ Key Innovation:
 8.	Admins manage users, courses, and assignments system-wide
 
 Course Flow:
+
 •	Students enroll → Access materials → Submit assignments → Receive grades – still valid; now uses Enrollment → Submission → Grade
+
 •	Instructors create content → Manage assignments → Grade submissions → Track student progress – still valid; uses Course, Assignment, Submission, Grade
 
 
