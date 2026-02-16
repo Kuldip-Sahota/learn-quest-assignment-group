@@ -12,6 +12,7 @@ Team Members:
 Date: 2/15/26
 
 1. Project Overview & Motivation
+
 What We're Building:
 
 LearnQuest is an educational platform where instructors create courses, students enroll, and both track progress through assignments and grades. The platform focuses on structured learning and easy monitoring of performance
