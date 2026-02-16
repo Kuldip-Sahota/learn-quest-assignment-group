@@ -13,7 +13,9 @@ Date: 2/15/26
 
 1. Project Overview & Motivation
 What We're Building:
+
 LearnQuest is an educational platform where instructors create courses, students enroll, and both track progress through assignments and grades. The platform focuses on structured learning and easy monitoring of performance
+
 Key Innovation:
 •	Role-based access control ensures instructors and students only see what they’re allowed to
 •	Instructors can create courses, assignments, and track grades
