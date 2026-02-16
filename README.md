@@ -124,6 +124,43 @@ Page 1: Home / Dashboard (Public Page)
 •	Login / Register buttons
 •	Highlights featured instructors
 
+<img width="758" height="1264" alt="image" src="https://github.com/user-attachments/assets/6f169d79-c274-4741-910b-01817abd63a8" />
+
+Page 2: Course Details (Student Page)
+•	Shows enrolled students, syllabus, assignments
+•	Enroll button (if not enrolled)
+
+<img width="677" height="1128" alt="image" src="https://github.com/user-attachments/assets/be1a3bf5-56ba-45f4-9558-c8b37f6799dc" />
+
+Page 3: Instructor Dashboard
+•	List of created courses
+•	Create / Edit / Delete course
+•	View student submissions per assignment
+
+<img width="728" height="1119" alt="image" src="https://github.com/user-attachments/assets/39e05307-0ed3-4ba5-bd78-e406b57d790c" />
+
+
+Page 4: Assignment Submission (Student Page)
+•	Upload files or submit text answers
+•	View grade and feedback
+
+<img width="711" height="1187" alt="image" src="https://github.com/user-attachments/assets/9b159279-9f5c-450d-8095-567792341350" />
+
+
+Page 5: Login Page 
+•	Username & password
+•	Registration link
+•	Error messages for failed login
+
+<img width="666" height="1078" alt="image" src="https://github.com/user-attachments/assets/d85898dd-c6ed-48a6-a3d5-660081582820" />
+
+
+Page 6: Admin Panel
+•	Manage users, courses, assignments
+•	View platform stats
+
+<img width="664" height="1109" alt="image" src="https://github.com/user-attachments/assets/26326eee-eb95-4dc4-8885-126c27a7fc81" />
+
 
 
 
