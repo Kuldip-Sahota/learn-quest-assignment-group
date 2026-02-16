@@ -23,7 +23,7 @@ Key Innovation:
 •	Students can enroll, submit assignments, and view their progress
 •	Real-time dashboard updates show grades and completion status
 
-**2**. Core Concept: How the Platform Works (High Level)
+2. Core Concept: How the Platform Works 
 1.	Instructors log in and create courses
 2.	Students log in and browse available courses
 3.	Students enroll in courses and access learning material
@@ -32,9 +32,11 @@ Key Innovation:
 6.	System automatically updates grades when instructors grade submissions
 7.	Progress dashboards show each student’s completion and performance
 8.	Admins manage users, courses, and assignments system-wide
+
 Course Flow:
 •	Students enroll → Access materials → Submit assignments → Receive grades – still valid; now uses Enrollment → Submission → Grade
 •	Instructors create content → Manage assignments → Grade submissions → Track student progress – still valid; uses Course, Assignment, Submission, Grade
+
 
 3. Domain Model Definition
 Below are 7 core entities powering LearnQuest:
